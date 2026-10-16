@@ -45,4 +45,6 @@
 - 可视化：Matplotlib、scikit-learn
 
 ## 环境安装
+```
 pip install torch transformers sentencepiece sacremoses jieba nltk gensim scikit-learn matplotlib
+```
